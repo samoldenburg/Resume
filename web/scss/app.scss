@@ -53,6 +53,10 @@
     position: relative;
     overflow: hidden;
 
+    .right {
+        float: right;
+    }
+
     .bg {
         background: url("/etc/img/hero-yosemite-650.jpg");
         background-size: cover;
@@ -68,7 +72,7 @@
         position: relative;
         z-index: 2;
 
-        h1, h2, h4, a:link {
+        h1, h2, h4, a:link, a:visited {
             color: rgba(255,255,255,1);
             text-shadow: 0.1em 0.1em 0.4em rgba(0,0,0,0.25);
         }
@@ -96,13 +100,15 @@
     }
 }
 
-.hero img {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%) translateY(-200px);
-}
-
 .sm {
     font-size: 2em;
+}
+
+@media only screen and (max-width: 400px) {
+    .hero {
+        img {
+            width: 100px;
+            height: auto;
+        }
+    }
 }

@@ -17,12 +17,13 @@
         <div class="bg"></div>
         <div class="row">
             <div class="large-12 columns">
+                <img class="right" src="etc/img/me.png">
                 <h1>Sam Oldenburg</h1>
                 <h4>Full Stack Developer</h4>
                 <div class="sm">
-                    <a href="https://www.linkedin.com/in/samueloldenburg"><i class="fi-social-linkedin"></i></a>
-                    <a href="mailto:sam.oldenburg@gmail.com"><i class="fi-mail"></i></a>
-                    <a href="#"><i class="fi-social-github"></i></a>
+                    <a href="https://www.linkedin.com/in/samueloldenburg" target="_blank"><i class="fi-social-linkedin"></i></a>
+                    <a href="mailto:sam.oldenburg@gmail.com" target="_blank"><i class="fi-mail"></i></a>
+                    <a href="https://github.com/samoldenburg" target="_blank"><i class="fi-social-github"></i></a>
                 </div>
 
             </div>
@@ -33,10 +34,13 @@
         <div class="large-12 columns">
             <h2><i class="primary fi-torso"></i> About Me</h2>
             <p>
-                I've had a passion for web based technology for most of my life, and began learning HTML/CSS when I was only 12 years old. Based in the Fox Valley region in Wisconin, I have 5+ years of professional experience, and before that, worked on small freelance projects for several years. I consider myself a proficient full-stack developer, but maintain a passion and expertise on database driven application development, most frequently in PHP/MySQL with various frameworks. I am able to adapt to new technologies and languages quickly, and put a passion into continuing to learn more about this ever-evolving field as much as I can.
+                I've had a passion for web based technology for most of my life, and began learning HTML/CSS when I was only 12 years old. Based in the Fox Valley region in Wisconin, I have 5+ years of professional experience, and before that, worked on small freelance projects for several years. I consider myself a proficient full-stack developer, but maintain a passion and expertise on database driven application development, most frequently in PHP/MySQL with various frameworks. I am able to adapt to new technologies and languages quickly, and I put a passion into continuing to learn more about this ever-evolving field as much as I can.
             </p>
             <p>
                 Beyond the technical realm, I have strong communication skills - especially in regards to working with a team, leading or supervising other team members, and communication with clients.
+            </p>
+            <p>
+                Thanks for taking a look. If you'd like to get more information about me and see some specific projects I have worked on, check out my <a href="https://www.linkedin.com/in/samueloldenburg" target="_blank">LinkedIn</a> page.
             </p>
         </div>
     </div>
