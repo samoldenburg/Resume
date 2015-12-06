@@ -1,3 +1,7 @@
+<!--
+    Photography used on this page is also original work.
+    Thanks for taking a look!
+-->
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
@@ -216,15 +220,15 @@
         </div>
     </div>
 
-    <hr>
-
-    <div class="row last">
-        <div class="large-12 columns">
-            <h2>Get in Touch</h2>
-            <h4>
-                Want to know more about me, or discuss anything? Drop me an email - <a href="mailto:sam.oldenburg@gmail.com">sam.oldenburg@gmail.com</a><br />
-                I'll get back to you as soon as I can.
-            </h4>
+    <div class="footer">
+        <div class="row last">
+            <div class="large-12 columns">
+                <h2>Get in Touch</h2>
+                <h4>
+                    Want to know more about me, or discuss anything? Drop me an email - <a href="mailto:sam.oldenburg@gmail.com">sam.oldenburg@gmail.com</a><br />
+                    I'll get back to you as soon as I can.
+                </h4>
+            </div>
         </div>
     </div>
 
