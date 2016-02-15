@@ -3,7 +3,7 @@ Simple repository for my resume.
 
 Built using foundation
 
-`php
+```php
 <?php
 
 
@@ -206,4 +206,4 @@ function sb_term_split($terms) {
 
 SBProjectProfiles::register_hooks();
 
-`
+```
